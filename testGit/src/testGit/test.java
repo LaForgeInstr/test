@@ -7,6 +7,8 @@ public class test {
 		 
 		 System.out.println("commit 2");
 		 
+		 // Test modif depuis git
+		 
 	 }
 	
 }
